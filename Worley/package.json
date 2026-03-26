@@ -36,6 +36,10 @@
   },
   "private": true,
   "overrides": {
-    "fast-xml-parser": "5.5.9"
+    "fast-xml-parser": "5.5.9",
+    "semver": "7.7.4",
+    "send": "1.2.1",
+    "tar": "7.5.13",
+    "xml2js": "0.6.2"
   }
 }
